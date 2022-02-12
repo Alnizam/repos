@@ -1,0 +1,41 @@
+body {
+    background-color: #e6f3ff;
+}
+
+h1 {
+    color: #666699;
+    text-align: center;
+}
+
+a {
+    color: #006666;
+    font-size: 21px;
+}
+
+.Fud {
+    background-color: #ffcc99;
+}
+
+h3 {
+    text-align: center;
+    font-size: 25px;
+}
+
+h4 {
+    text-align: center;
+    color: rgb(233, 74, 74);
+    font-size: 23px;
+}
+
+li {
+    font-size: 21px;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+.regular.lmao {
+    color: blue;
+}
